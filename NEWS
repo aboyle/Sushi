@@ -1,5 +1,52 @@
 Sushi News
 
+CHANGES IN R 1.7.0:
+
+    * removed print commands from plotBedpe
+
+CHANGES IN R 1.6.9:
+
+    * removed arrow above genes in plotGenes function
+
+CHANGES IN R 1.6.8:
+
+    * Minor changes in documentation
+
+CHANGES IN R 1.6.7:
+
+    * Made changes to elminate error message when no data is supplied
+
+CHANGES IN R 1.6.6:
+
+    * Fixed bug that was not exporting new functions
+    
+CHANGES IN R 1.6.5:
+
+    * Extremely minor change to vignette
+
+CHANGES IN R 1.6.4:
+
+    * Updated README to reflect current citation
+
+CHANGES IN R 1.6.3:
+
+    * Added plotHic2 for improved HiC plotting.  Added hightlighthic for adding highlights to HiC plots.  Improved stability and performance of plotGenes and labelgenome functions.
+
+CHANGES IN R 1.6.2:
+
+    * fixed bug in plotGenes in which genes were not filtered by chromosome
+    * change plotBedpe to remove warning messages
+
+CHANGES IN R 1.6.1:
+
+    * added 'ribbons' feature to plotBedpe
+
+CHANGES IN R 1.6.0:
+
+    * edited README.md
+
+    * plotBedgraph now plots empty plot when there is not enough data in range
+
 CHANGES IN R 1.1.3:
 
     * edited README.md
